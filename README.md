@@ -1,12 +1,5 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML_Pipeline-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Production-brightgreen?style=for-the-badge" />
-</p>
 
-<h1 align="center">🚗 Fleet Operations & Cancellation Prediction Engine</h1>
+<h1 align="center">Fleet Operations & Cancellation Prediction Engine</h1>
 
 <p align="center">
   <b>An end-to-end Machine Learning pipeline and Business Intelligence suite designed to predict Uber ride cancellations before they happen, and visualize the financial impact of lost revenue for operations teams.</b>
