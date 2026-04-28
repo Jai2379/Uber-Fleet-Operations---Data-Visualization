@@ -231,6 +231,9 @@ python pipeline.py
 
 # 5. Verify the pipeline
 python targeted_check.py
+
+#Kaggle Data Link: https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard
+#Ensure the link is under a folder named /data/
 ```
 
 ---
