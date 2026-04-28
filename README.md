@@ -11,24 +11,6 @@
   <img src="data/Dasboard.gif" alt="Power BI Dashboard Demo" width="90%" />
 </p>
 
----
-
-## 📋 Table of Contents
-
-- [The Business Problem](#-the-business-problem)
-- [Key Results](#-key-results)
-- [Architecture](#-architecture)
-- [Tech Stack](#-tech-stack)
-- [Data Engineering Achievements](#-data-engineering-achievements)
-- [Module Breakdown](#-module-breakdown)
-- [Power BI Dashboard](#-power-bi-dashboard)
-- [Getting Started](#-getting-started)
-- [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [License](#-license)
-
----
-
 ## 🔍 The Business Problem
 
 Ride-sharing companies lose **massive amounts of potential revenue** and operational time when dispatched rides are cancelled — whether by the driver or the customer. Every cancelled ride is a vehicle sitting idle, a customer left waiting, and revenue that evaporates from the books.
