@@ -217,8 +217,8 @@ The BI layer connects directly to `uber_operations.db` and presents three core o
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/fleet-cancellation-engine.git
-cd fleet-cancellation-engine
+git clone (https://github.com/Jai2379/Uber-Fleet-Operations)
+cd Uber-Fleet-Operations
 
 # 2. Install dependencies
 pip install pandas numpy scikit-learn imbalanced-learn joblib
