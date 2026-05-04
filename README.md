@@ -279,7 +279,7 @@ fleet-cancellation-engine/
 │
 ├── data/
 │   ├── ncr_ride_bookings.csv        # Raw dataset (100K+ ride records)
-│   └── Dasboard.gif                 # Dashboard demo animation
+│  
 │
 ├── dashboards/
 │   └── Uber Statistics.png          # Dashboard static screenshot
